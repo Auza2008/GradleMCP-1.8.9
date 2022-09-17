@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'me.5ymb0ls'
+group 'me.Symb0ls'
 version 'MC_1.8.9'
 
 repositories {
